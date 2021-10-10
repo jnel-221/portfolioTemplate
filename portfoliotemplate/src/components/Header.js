@@ -6,19 +6,19 @@ const Header = () => {
     return(
         <Navbar collapseOnSelect expand="lg">
         <Container>
-          <Navbar.Brand as={Link} to="#">
+          <Navbar.Brand as={Link} to="/">
             Home
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
           <Navbar.Collapse id="responsive-navbar-nav">
             <Nav className="me-auto">
-              <Nav.Link as={Link} to="#">
+              <Nav.Link as={Link} to="/page1">
                 Page 1
               </Nav.Link>
-              <Nav.Link as={Link} to="#">
+              <Nav.Link as={Link} to="/page2">
                 Page 2
               </Nav.Link>
-              <Nav.Link as={Link} to="#">
+              <Nav.Link as={Link} to="/connect">
                 Connect
               </Nav.Link>
             </Nav>
