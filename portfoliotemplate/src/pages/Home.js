@@ -1,7 +1,8 @@
 import React from "react";
 import Header from "../components/Header";
 import About from "../components/About";
-import Projects1 from "../components/projects1";
+import Projects1 from "../components/Projects1";
+import Projects2 from "../components/Projects2";
 
 
 const Home = () =>{
@@ -12,6 +13,7 @@ const Home = () =>{
         <h1>Hello Homepage!</h1>
         <About/>
         <Projects1/>
+        <Projects2/>
         </>
     )
 }
