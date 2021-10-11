@@ -1,0 +1,13 @@
+#projects1{
+    background-color: rgb(54, 88, 133);
+}
+
+#right{
+    float:right;
+    padding-left: 3rem;
+
+}
+
+.project-text{
+    color:azure;
+}
