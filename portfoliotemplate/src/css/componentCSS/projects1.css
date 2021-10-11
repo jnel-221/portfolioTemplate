@@ -7,7 +7,11 @@
     padding-left: 3rem;
 
 }
+#title{
+    text-align: right;
+}
 
 .project-text{
+   
     color:azure;
 }
