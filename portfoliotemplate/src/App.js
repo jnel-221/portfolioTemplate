@@ -4,7 +4,7 @@ import Page1 from "./pages/Page1";
 import Page2 from "./pages/Page2";
 import Connect from "./pages/Connect";
 
-import "./App.css";
+// import "./App.css";
 
 function App() {
   return (
