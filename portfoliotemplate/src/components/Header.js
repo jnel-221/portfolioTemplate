@@ -1,10 +1,11 @@
 import React from "react";
 import {Link} from "react-router-dom";
 import {Navbar, Nav, Container} from "react-bootstrap";
+import "../css/componentCSS/Header.css"
 
 const Header = () => {
     return(
-        <Navbar collapseOnSelect expand="lg">
+        <Navbar collapseOnSelect expand="lg" id="navbar">
         <Container>
           <Navbar.Brand as={Link} to="/">
             Home
