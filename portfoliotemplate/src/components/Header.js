@@ -5,14 +5,14 @@ import "../css/componentCSS/Header.css"
 
 const Header = () => {
     return(
-        <Navbar collapseOnSelect expand="lg" id="navbar">
+        <Navbar collapseOnSelect expand="lg">
         <Container>
-          <Navbar.Brand as={Link} to="/">
-            Home
+          <Navbar.Brand as={Link} to="/" id="brand">
+            Happy Trees
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
           <Navbar.Collapse id="responsive-navbar-nav">
-            <Nav className="ms-auto">
+            <Nav className="ms-auto" id="links">
               <Nav.Link as={Link} to="/page1">
                 Page 1
               </Nav.Link>

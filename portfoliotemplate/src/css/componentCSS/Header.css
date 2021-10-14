@@ -1,4 +1,24 @@
-#navbar{
-    background-color: #2a3f6ace;
-    color: #EDDACC;
+.navbar{
+    background-color: #2a3f6ab2;
+}
+
+.navbar-brand{
+    
+    font-size: 3rem;
+    font-family: 'Libre Baskerville', serif;
+
+
+    background: -webkit-linear-gradient(45deg, hsla(8, 79%, 78%, 1) 18%, hsla(14, 82%, 85%, 1) 39%, hsla(11, 84%, 90%, 1) 47%, hsla(10, 92%, 85%, 1) 60%, hsla(8, 68%, 75%, 1) 80%); 
+
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.nav-link{
+    font-family: 'Montserrat', sans-serif;
+    color: #EDDACC!important;
+}
+
+.nav-link:hover {
+    color:hsla(8, 68%, 75%, 1)!important;
 }
