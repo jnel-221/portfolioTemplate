@@ -6,7 +6,7 @@ const Projects2 = () => {
   return (
     <Card className="p-5 m-5" id="projects2">
     <Card.Body>
-      <Card.Title className="pb-2">Projects2</Card.Title>
+      <Card.Title className="pb-2 project-text">Puffy Clouds</Card.Title>
       <Card.Img
         variant="left"
         src="https://via.placeholder.com/150"
@@ -14,8 +14,8 @@ const Projects2 = () => {
         id="left"
       />
       <Card.Text>
-        <p>How do you make a round circle with a square knife?</p>
-        <p>
+        <p className="project-text">How do you make a round circle with a square knife?</p>
+        <p className="project-text">
           That's your challenge for the day. You can get away with a lot.
           We'll do another happy little painting. You gotta think like a tree.
           Water's like me. It's laaazy ... Boy, it always looks for the

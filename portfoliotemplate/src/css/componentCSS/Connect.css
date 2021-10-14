@@ -1,0 +1,26 @@
+#connect{
+    background-color: #eddacc80;
+    border: none;
+    font-weight: 500;
+   
+    
+}
+
+.fab:hover{
+    background: -webkit-linear-gradient(45deg, hsla(8, 79%, 78%, 1) 18%, hsla(14, 82%, 85%, 1) 39%, hsla(11, 84%, 90%, 1) 47%, hsla(10, 92%, 85%, 1) 60%, hsla(8, 68%, 75%, 1) 80%); 
+
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.btn-contact {
+    background-color: transparent;
+    border: 1px solid #2A3F6A;
+    color: #2A3F6A;
+
+}
+
+.btn-contact:hover{
+    background-color: #2A3F6A;
+    color: hsla(8, 68%, 75%, 1);
+}
