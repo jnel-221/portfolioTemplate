@@ -4,7 +4,7 @@ import "../css/componentCSS/About.css";
 
 const About = () => {
   return (
-    <Card className="p-5 m-5" id="about">
+    <Card className="p-5 mx-5" id="about">
       <Card.Body>
         <Card.Title className="pb-2">About Me</Card.Title>
         <Card.Img
