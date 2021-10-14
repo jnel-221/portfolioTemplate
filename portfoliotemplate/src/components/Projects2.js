@@ -6,7 +6,7 @@ const Projects2 = () => {
   return (
     <Card className="p-5 m-5" id="projects2">
     <Card.Body>
-      <Card.Title className="pb-2">Projects1</Card.Title>
+      <Card.Title className="pb-2">Projects2</Card.Title>
       <Card.Img
         variant="left"
         src="https://via.placeholder.com/150"
