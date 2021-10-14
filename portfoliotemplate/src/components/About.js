@@ -2,7 +2,7 @@ import React from "react";
 import { Card } from "react-bootstrap";
 import "../css/componentCSS/About.css";
 
-const About = ({}) => {
+const About = () => {
   return (
     <Card className="p-5 m-5" id="about">
       <Card.Body>

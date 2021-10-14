@@ -11,7 +11,6 @@ const Home = () =>{
     return(
         <>
         <Header/>
-        <h1>Hello Homepage!</h1>
         <About/>
         <Projects1/>
         <Projects2/>
