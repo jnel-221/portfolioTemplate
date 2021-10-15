@@ -1,5 +1,6 @@
 import React from "react";
 import { Card } from "react-bootstrap";
+// import CarouselComponent from "./Carousel";
 import "../css/componentCSS/Projects2.css";
 
 const Projects2 = () => {
