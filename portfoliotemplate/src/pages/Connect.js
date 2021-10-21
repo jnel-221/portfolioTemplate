@@ -6,7 +6,7 @@ const Connect = () => {
     return(
         <>
         <Header/>
-        <h1>Hello Connect!</h1>
+        <h1 className="text-center page-title">Let's Connect</h1>
         </>
     )
 }

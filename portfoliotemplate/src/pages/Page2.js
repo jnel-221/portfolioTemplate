@@ -6,7 +6,7 @@ const Page2 = () => {
     return(
         <>
         <Header/>
-        <h1>Hello Page 2!</h1>
+        <h1 className="text-center page-title">More Happy Projects</h1>
         </>
     )
 }

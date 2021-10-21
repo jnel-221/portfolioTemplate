@@ -14,7 +14,12 @@ body {
   color: #2A3F6A;
 }
 
+.page-title{
+  margin-top: 5rem;
+  font-family: 'Libre Baskerville', serif;
+  font-weight: 700;
 
+}
 
 /* Color Palate from Coolers */
 /* Main text color, and dark background color: Dark Cornflower Blue #2A3F6A*/
