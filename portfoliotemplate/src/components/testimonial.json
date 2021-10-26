@@ -1,16 +1,16 @@
 [
   { 
-    "imgId":"left",
+    "title": "Excellent Design",
     "testimonial": "Little trees and bushes grow however makes them happy. Isn't that fantastic that you can make whole mountains in minutes?",
     "name": "Bob Ross"
   },
   {
-    "imgId":"left",  
+    "title": "Innovative Work",
     "testimonial": "Work on one thing at a time. Don't get carried away - we have plenty of time. It's amazing what you can do with a little love in your heart.",
     "name": "Bob Ross"
   },
   {
-    "imgId":"left",
+    "title": "Creative, Collaborative, Professional",
     "testimonial": "Put light against light - you have nothing. Put dark against dark - you have nothing. It's the contrast of light and dark that each give the other one meaning.",
     "name": "Bob Ross"
   }

@@ -13,7 +13,7 @@ function VideoWork({title, data}) {
       <div className="px-3">
         <h2 className="text-center page-title">{title}</h2>
         <hr></hr>
-        <Row xs={2} md={3} lg={3}>
+        <Row xs={1} md={2} lg={3}>
           {videoData.map((videoID, i) => (
             <Col key={i} className="pt-3">
               <YouTubeEmbed  embedId={videoID.embedid} />
